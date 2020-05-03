@@ -33,3 +33,5 @@ Used libraries:
 
 Data was provided by Kaggle competition: 
 https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data
+
+Please extract data to `data/`folder
