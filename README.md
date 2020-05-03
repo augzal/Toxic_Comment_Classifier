@@ -16,7 +16,8 @@ Repository for capstone project of Udacity's Machine Learning Engineer nanodegre
    Notebook for creating pipeline, tuning hyperparameters, choosing the best model and evaluating it
    
    4. [Testing the model with custom input](Testing%20the%20model.ipynb)  
-   Notebook for loading the model and giving the user the ability to test the model with custom input (comment)
+   Notebook for loading the model and giving the user the ability to test the model with custom input (comment).
+   For testing custom comments, add your comment to `input_comment` list and run last two sections. Predictions will be printed as pandas dataframe with with predicted toxicity classes. If all values are 0 - input comment is predicted as not toxic.  
 
 # Software
 python==3.7.3
