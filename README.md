@@ -26,12 +26,10 @@ Install requirements with `pip install -r requirements.txt`
 Used libraries:
 - pandas==0.24.2
 - scikit-learn==0.20.3
+- Keras==2.2.4
+- tensorflow==2.0.0
 
 # Data 
 
 Data was provided by Kaggle competition: 
 https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data
-- Keras==2.2.4
-- tensorflow==2.0.0
-
-
