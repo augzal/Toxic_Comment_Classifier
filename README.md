@@ -2,8 +2,8 @@
 Repository for capstone project of Udacity's Machine Learning Engineer nanodegree program
 
 # Files required for capstone project submition
-- [Project Proposal](Proposal.pdf)
-- [Project Report](Report.PDF)
+- [Project Proposal](proposal.pdf)
+- [Project Report](report.PDF)
 - Development code:
   
    1. [Exploratory Analysis and Preprocessing Notebook](Exploratory%20Analysis%20and%20Preprocessing.ipynb)  
